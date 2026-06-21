@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Claude Code local/machine-specific state (don't share across machines)
+.claude/settings.local.json
+.claude/plugins/cache/
+.mcp.local.json
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Node (in case any skill ships scripts/hooks)
+node_modules/
+npm-debug.log*
+
+# Python (in case any skill ships scripts/hooks)
+__pycache__/
+*.pyc
+.venv/
+
+# Logs
+*.log

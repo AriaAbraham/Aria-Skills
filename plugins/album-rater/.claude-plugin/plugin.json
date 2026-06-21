@@ -1,0 +1,8 @@
+{
+  "name": "album-rater",
+  "description": "Rate and review music albums with a detailed 6-category weighted scoring system",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aria Abraham"
+  }
+}

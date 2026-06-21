@@ -1,0 +1,16 @@
+{
+  "name": "aria-skills",
+  "owner": {
+    "name": "Aria Abraham",
+    "email": "ariablu.sb@gmail.com"
+  },
+  "description": "Aria's personal collection of Claude Code skills and plugins",
+  "plugins": [
+    {
+      "name": "album-rater",
+      "source": "./plugins/album-rater",
+      "description": "Rate and review music albums with a detailed 6-category weighted scoring system",
+      "category": "productivity"
+    }
+  ]
+}
